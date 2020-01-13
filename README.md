@@ -1,2 +1,1 @@
-# mrbajaj.github.io
-MyProfile
+# My Profile
