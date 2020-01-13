@@ -13,12 +13,3 @@ Being a competitive professional I aspire to apply Software Engineering for desi
 ### Other - Maven, AWS (EC2, S3), Jenkins CI/CD, Docker, NPM, JIRA, Git, OpenAPI, Swagger, ActiveMQ
 ### What else - HTML, CSS, SCSS, Bootstrap, RegEx, JUnit/Mockito TDD, Log4j2, OAuth2
 
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
