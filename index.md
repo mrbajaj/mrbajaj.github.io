@@ -2,14 +2,17 @@
 layout: default
 ---
 
-Being a competitive professional I aspire to apply Software Engineering for designing and building products/services at scale which are data Intensive, latency sensitive and highly secure.
+Being a competitive professional I aspire to apply Software Engineering for designing and building products which are data Intensive, latency sensitive and highly scalable.
 
-## Technical Skills:
-### Excellent Problem-Solving, Data Structures & Algorithms, Design Patterns & System Design
-### In-depth understanding of Core Java (1.8)
-### Hands-on Spring Boot, Angular2+ (6), Microservices
-### API's - REST, GraphQL, OpenAPI, WebSockets
-### Database - PostgreSQL, MySQL, pgadmin, SQLyog
-### Other - Maven, AWS (EC2, S3), Jenkins CI/CD, Docker, NPM, JIRA, Git, OpenAPI, Swagger, ActiveMQ
-### What else - HTML, CSS, SCSS, Bootstrap, RegEx, JUnit/Mockito TDD, Log4j2, OAuth2
-
+# Development Skills:
+## Excellent Problem-Solving, Data Structures & Algorithms
+## Expertise in Low Level Design, OOPS, Design Patterns
+## Proficient in System Design, MicroServices & SaaS
+## Languages: Java, Python, PHP, Javasript
+## Frameworks: Spring Boot, Play Framework, Hibernate, Angular
+## Database - PostgreSQL, MySQL, MongoDB, Cassandra, Redis
+## Message Bus /Pub-Sub: RabbitMQ, Azure Service Bus, Kafka
+## Cloud: Azure, AWS (EC2, S3), GCP
+## DevOps - Jenkins, Docker, Kubernetes, Heroku, Git, JIRA
+## API's - REST, GraphQL, OpenAPI, WebSockets, Swagger
+## What else - RegEx, JUnit/Mockito TDD, SLF4J, OAuth2, SaaS, Maven, SBT, NPM
