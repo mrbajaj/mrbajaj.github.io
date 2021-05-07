@@ -7,7 +7,7 @@ Being a competitive professional I aspire to apply Software Engineering for desi
 # Development Skills:
 ## Excellent Problem-Solving, Data Structures & Algorithms
 ## Expertise in Low Level Design, OOPS, Design Patterns
-## Proficient in System Design, MicroServices & SaaS
+## Proficient in System Design, MicroServices, SaaS
 ## Languages: Java, Python, PHP, Javasript
 ## Frameworks: Spring Boot, Play Framework, Hibernate, Angular
 ## Database - PostgreSQL, MySQL, MongoDB, Cassandra, Redis
